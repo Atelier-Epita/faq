@@ -14,7 +14,7 @@ Pourquoi je ne peux pas accéder au MakerSpace ?
 > Les élèves n'ont pas le droit d'accéder au MakerSpace s'il n'y a pas un staff de l'Atelier également présent. Cela est nécessaire pour des raisons de sécurité, à la fois des équipements (dégradation, vol) et des personnes (blessures...)
 
 Quelles sont les conditions d'accès au MakerSpace ?
-> Vous devez être étudiant enregistré à l'Epita ou Epitech et signer une charte lors de votre première visite. Il n'y a rien à payer pour accéder au MakerSpace et utiliser les équipements verts
+> Vous devez être étudiant enregistré à l'Epita ou Epitech et signer une charte lors de votre première visite. Il n'y a rien à payer pour accéder au MakerSpace et utiliser les équipements verts.
 
 Qu'ai-je le droit de faire après avoir signé une charte ?
 > Vous pouvez utiliser tous les équipements dont la fiche a un code vert en veillant à respecter les consignes de sécurité.
@@ -23,7 +23,7 @@ Comment reconnaitre un staff ?
 > Les personnes présentent dans le bureau de la verrière sont forcément un staff, vous pouvz toquer à cette porte.
 
 Je ne sais pas où se trouve/range un équipement, que faire ?
-> N'hésitez pas à demander de laide à un staff, ils sauront vous aiguiller.
+> N'hésitez pas à demander de l'aide à un staff, ils sauront vous aiguiller.
 
 J'aimerais emprunter un équipement, est-ce possible ?
 > Oui, certains équipements peuvent être empruntés au MakerSpace. Dans ce cas vous devez demander à un Staff de remplir une fiche de prêt.
@@ -34,10 +34,10 @@ Que dois-je faire avant de partir ?
 ## Les possibilités du MakerSpace
 
 Est-il possible de faire imprimer une pièce en 3D ?
-> Oui, l'impression 3D avec des filaments PLA, ABS et PETG ou de la résine est possible. Pour les autres types de filaments, non consulter.
+> Oui, l'impression 3D avec des filaments PLA, ABS et PETG ou de la résine est possible. Pour les autres types de filaments, nous consulter.
 
 Est-ce que je peux choisir ma couleur d'impression ?
-> Nous proposons différentes couleurs de filaments PLA qui varie n fonction des périodes. Merci de vous rapprocher d'un staff.
+> Nous proposons différentes couleurs de filaments PLA qui varie en fonction des périodes. Merci de vous rapprocher d'un staff.
 
 Combien une impression coûte-t-elle ?
 > Les impressions 3D sont gratuites pour les pièces de moins de 200g. Au delà de cette limite vous devrez justifier de l'intérêt pédagogique/technique de votre impression pour bénéficier de la gratuité.
