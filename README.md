@@ -50,4 +50,4 @@ Quelles sont les techniques de marquage textiles disponible à l'Atelier ?
 
 # Liens: 
 
-[1] Discord: [https://discord.gg/qNHbr4M63C](https://discord.gg/invite/522fXFayJ2)
+[1] [Discord](https://discord.gg/qNHbr4M63C)
